@@ -3,6 +3,7 @@
 - 🔭 I’m currently completing the HyperionDev Web Development Bootcamp - my first coding experience! We finish in March with a full MERN application.
 - 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, React, Express, Mongo.DB
 - 👯 I’m looking to collaborate on Web Development projects, particularly front-end.
+- ⚡ Fun fact: I live on a boat on the Grand Union Canal in London!
 
 <!--
 **jennystarzetz/jennystarzetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
